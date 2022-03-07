@@ -4,7 +4,7 @@ This is the code for Pytorch implementation of the paper - Maximizing Mutual Inf
 ### Dataset ###
 download from https://shapenet.cs.stanford.edu/ericyi/shapenetcore_partanno_segmentation_benchmark_v0.zip
 
-../dataset/shapenet_part/shapenetcore_partanno_segmentation_benchmark_v0/02691156...
+save at ../dataset/shapenet_part/shapenetcore_partanno_segmentation_benchmark_v0/02691156...
 
 ### training ###
 python train_new.py --exp_name=XX --loss_type=XX --lr=XX --withMMI=True/False --model_gt=XX
