@@ -14,3 +14,9 @@ python train_new.py --exp_name= --loss_type=XX --lr=XX --withMMI=True/False --mo
 ## Note 
 1. please change the root of groud truth autoencoder. "--model_gt"
 2. please change the type of similarity operation. "--loss_type"
+
+## Acknowlegments
+https://github.com/qinglew/PCN-PyTorch.git
+
+PCN: Point Cloud Completion Network
+https://arxiv.org/pdf/1808.00671.pdf
