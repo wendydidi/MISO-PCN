@@ -1,5 +1,6 @@
 # MISO-PCN
 This is the code for Pytorch implementation of the paper - Maximizing Mutual Information based Similarity Operation for Point Cloud Completion Netowrk
+https://ieeexplore.ieee.org/document/9741313
 
 ### Dataset ###
 download from https://shapenet.cs.stanford.edu/ericyi/shapenetcore_partanno_segmentation_benchmark_v0.zip
